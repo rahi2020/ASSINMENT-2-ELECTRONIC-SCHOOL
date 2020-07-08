@@ -2,3 +2,179 @@ body{
     margin: 0;
     padding: 0;
 }
+
+
+/* NAVIGATION AND FIRST STEP START HERE */
+.container{
+    background-color: #F0FFF0;
+    padding-bottom: 3rem;
+    
+}
+.nav{
+    width: 120px;
+}
+.button{
+    background-color: #21B573;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 20px;
+    width: 6rem;
+}
+#font{
+    font-weight: bold;
+}
+
+.row{
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.width{
+    width: 100%;
+}
+.ready{
+    color: red;
+}
+.schedule{
+    color: #21B573 ;
+}
+
+#Get-Started{
+    width: 8rem;
+    height: 2rem;
+}
+h1{
+    font-weight: bold;
+}
+#color{
+    background-color: #F8FFFB;
+}
+/* NAVIGATION AND FIRST STEP END HERE */
+
+
+
+/* <!-- SECTION-1 START HERE --> */
+.icon{
+    width: 50px;
+}
+#section{
+    background-color: white;
+}
+.top{
+    margin-top: 10px;
+    text-align: center;
+   
+}
+#small{
+    width: 43px;
+    margin-top: o;
+}
+
+.border-both{
+   background-color: #F8FFFB;
+   padding: 1rem;
+    
+}
+/* SECTION-1 END HERE */
+
+
+
+/* ONLINE COURSES START HERE */
+#section-2{
+    background-color: white;
+    
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+#margin{
+    margin-top: 3rem;
+    
+}
+
+.gap{
+    padding: 1rem;
+}
+#button2{
+    width: 120px;
+    height: 30px;
+    font-weight: normal;
+    
+}
+.gray{
+    color: darkgrey;
+}
+
+.extra{
+    color: gray;
+   
+}
+.single-line{
+     margin-top: 2rem;
+}
+/* ONLINE COURSES END HERE */
+
+
+
+/* GALLERY START HERE */
+#photos{
+    background-color: white;
+    margin-bottom: 0px;
+}
+.book{
+    height: 11.6rem;
+}
+.books{
+    width: 20.5rem;
+    height: 14.5rem;
+}
+/* GALLERY END HERE */
+
+
+
+
+/* FROM START HERE */
+form{
+    padding: 15rem;
+}
+.registration{
+    margin-bottom: 2rem;
+}
+/* FORM END HERE */
+
+
+
+/* TESTOMONIAL START HERE */
+#testomonial{
+    background-color: white;
+}
+
+.pic3{
+    width: 100px;
+}
+#left{
+    
+}
+/* TESTOMINIAL END HERE */
+
+
+/* FOOTER START HERE */
+.footer{
+    background-color: #282531;
+    color: white;
+    
+}
+
+#last{
+    padding: 2rem;
+}
+
+.copyright{
+     margin-top: 5rem;
+     text-align: center;
+}
+.white{
+    color: white;
+    font-weight: bold;
+}
