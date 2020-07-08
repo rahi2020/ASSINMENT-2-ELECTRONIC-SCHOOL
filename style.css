@@ -5,8 +5,11 @@ body{
 
 
 /* NAVIGATION AND FIRST STEP START HERE */
-.container{
+.header{
     background-color: #F0FFF0;
+}
+.container{
+   
     padding-bottom: 3rem;
     
 }
